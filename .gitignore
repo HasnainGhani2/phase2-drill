@@ -1,0 +1,19 @@
+# OS files
+.DS_Store
+Thumbs.db
+*Zone.Identifier
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# Logs / temp
+*.log
+tmp/
+node_modules/
